@@ -1,0 +1,1 @@
+target_include_directories(myProject PRIVATE ${CMAKE_CURRENT_LIST_DIR})
